@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GIFwallpaper</string>
+
+
+    <string name="lable_number_circles">Number of Circles</string>
+    <string name="lable_touch">touch</string>
+    <string name="lable_enable_touch">Enable Touch</string>
+    <string name="lable_click_here">Set WallPaper</string>
+    <string name="live_wallpaper_not_supported">live wallpaper not supported</string>
+</resources>
